@@ -36,6 +36,7 @@ Five purchase intent categories were defined and labeled:
 - **Raw reviews:** 103,439
 - **Products:** HubSpot Marketing Hub · Salesforce Sales Cloud · ActiveCampaign · Slack · Zoom Workplace · Microsoft Teams · Monday.com · Notion · Asana · Pipedrive · Shopify · Confluence · Mixpanel · Intercom · Zendesk
 - **Balanced dataset:** 12,154 reviews
+- b2b_reviews_expanded_balanced.csv Too large for GitHub, available on Google Drive: https://drive.google.com/file/d/1l8TvD1sotu15Yt21UiZUS-IOgs7sOA0g/view?usp=sharing
  
 ### Dataset Journey
  
